@@ -2,7 +2,7 @@
 Discord translator bot in discord.py language 🌐
 
 Hello my friend 👋
-This bot was created by me and I am familiar with it. If you need help, message this id in Discord:Reaxo#2222😊
+This bot was created by me and I am familiar with it. If you need help, message this id in Discord:Reaxo#0099😊
 
 Before running the bot, complete the "Complete this" section👀
 
